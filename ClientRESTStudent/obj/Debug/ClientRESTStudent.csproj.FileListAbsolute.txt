@@ -1,0 +1,10 @@
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.Form1.resources
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.Properties.Resources.resources
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.csproj.GenerateResource.cache
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\bin\Debug\ClientRESTStudent.exe.config
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\bin\Debug\ClientRESTStudent.exe
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\bin\Debug\ClientRESTStudent.pdb
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.exe
+C:\Users\mihadadene\source\repos\ClientRESTStudent\ClientRESTStudent\obj\Debug\ClientRESTStudent.pdb
